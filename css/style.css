@@ -45,3 +45,60 @@
 /*=========================
  Header Section end 
  ============================== */
+/*=========================
+ Feature Section Start 
+ ============================== */
+ .feature-section{
+    margin:3em;
+ }
+
+ .feature-section-header{
+    display: flex;
+    justify-content: center;
+    margin:5em;
+ }
+
+ .feature-text{
+    width:50%;
+    text-align: center;
+ }
+
+ .feature-text h1{
+    font-size: 3em;
+    margin: 1em 0;
+ }
+
+ .feature-card-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    text-decoration: underline;
+ }
+
+ .feature-card{ 
+    width:400px;
+    border-radius: 195px 195px 0 0; 
+    margin-bottom: 1em;
+ }
+
+ .feature-card img{
+    width:100%;
+ }
+
+ .feature-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color:aliceblue;
+    margin-top: 10em;
+    padding:10em;
+
+ }
+
+ /*=========================
+ Feature Section End
+ ============================== */
+ 
