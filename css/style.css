@@ -101,4 +101,32 @@
  /*=========================
  Feature Section End
  ============================== */
+
+
+ /*=========================
+ Hot Deal Section Start
+ ============================== */
+.hot-deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5dce4;
+    padding:5em;
+}
+
+.hot-deal h4{
+    font-size: 2em;
+}
+
+.percent{
+    color:#f305cb;
+}
+
+.hot-deal h1{
+    font-size: 4em;
+}
+
+ /*=========================
+ Hot Deal Section End
+ ============================== */
  
