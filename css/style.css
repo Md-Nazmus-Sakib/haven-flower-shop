@@ -194,6 +194,34 @@
 
 
 /*=========================
+Review Section Start
+ ============================== */
+ .review-text{
+    text-align: center;
+    font-size: 5em;
+    margin: 1em;
+ }
+ 
+ .review-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding: 7em;
+    background-color: #f5dce4;
+ }
+
+ .review-section img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+ }
+/*=========================
+Review Section End
+ ============================== */
+
+
+/*=========================
  Footer Section Start
  ============================== */
 .footer-section {
